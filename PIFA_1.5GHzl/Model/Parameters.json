@@ -1,0 +1,90 @@
+{
+    "parameters": [
+        {
+            "expr": "50",
+            "name": "L",
+            "value": "50"
+        },
+        {
+            "expr": "90",
+            "name": "Lg",
+            "value": "90"
+        },
+        {
+            "expr": "Lg",
+            "name": "Ls",
+            "value": "90"
+        },
+        {
+            "expr": "56.9",
+            "name": "W",
+            "value": "56.9"
+        },
+        {
+            "expr": "W",
+            "name": "Wg",
+            "value": "56.9"
+        },
+        {
+            "expr": "W",
+            "name": "Ws",
+            "value": "56.9"
+        },
+        {
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "expr": "0.035",
+            "name": "t",
+            "value": "0.035"
+        },
+        {
+            "expr": "0.637",
+            "name": "D1",
+            "value": "0.637"
+        },
+        {
+            "expr": "2.05",
+            "name": "D2",
+            "value": "2.05"
+        },
+        {
+            "expr": "9",
+            "name": "D3",
+            "value": "9"
+        },
+        {
+            "expr": "26.5",
+            "name": "xfeed",
+            "value": "26.5"
+        },
+        {
+            "expr": "D2/2+7.5*t",
+            "name": "yfeed",
+            "value": "1.2875"
+        },
+        {
+            "expr": "2",
+            "name": "Scr",
+            "value": "2"
+        },
+        {
+            "expr": "0.2",
+            "name": "ha",
+            "value": "0.2"
+        },
+        {
+            "expr": "8.8",
+            "name": "x",
+            "value": "8.8"
+        },
+        {
+            "expr": "19.87",
+            "name": "y",
+            "value": "19.87"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,22 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 03:14 PM Tuesday, 20. December 2022
+
+  Evaluating 'Gain (IEEE) at const phi=0 for 5x5 array (array factor)': 6 s
+  Evaluating 'Gain (IEEE),Phi=90.0': 4 s
+  Evaluating 'Gain (IEEE),Theta=0.0': 4 s
+  Evaluating 'Gain (IEEE),Theta=90.0': 4 s
+
+  Total time: 21 s  ( = 0 h, 0 m, 21 s )
+
+Template based post-processing finished at: 03:14 PM Tuesday, 20. December 2022
+----------------------------------------------------------------------------------------

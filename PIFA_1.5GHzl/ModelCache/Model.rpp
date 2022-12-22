@@ -1,0 +1,53 @@
+10
+0
+0
+4
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+Farfield Result^+MWS+DS.rtp
+3
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=1
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=1.5
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)\f=2
+Gain (IEEE),Phi=90.0
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+Farfield Result^+MWS+DS.rtp
+3
+Gain (IEEE),Phi=90.0\f=1
+Gain (IEEE),Phi=90.0\f=1.5
+Gain (IEEE),Phi=90.0\f=2
+Gain (IEEE),Theta=0.0
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+Farfield Result^+MWS+DS.rtp
+3
+Gain (IEEE),Theta=0.0\f=1
+Gain (IEEE),Theta=0.0\f=1.5
+Gain (IEEE),Theta=0.0\f=2
+Gain (IEEE),Theta=90.0
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+P
+ED10
+Farfield Result^+MWS+DS.rtp
+3
+Gain (IEEE),Theta=90.0\f=1
+Gain (IEEE),Theta=90.0\f=1.5
+Gain (IEEE),Theta=90.0\f=2
+0
